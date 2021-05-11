@@ -1,0 +1,35 @@
+button {
+    background-color: blue;
+    border-radius: 15px 20px 15px;
+    width: 100%;
+    padding: 8px;
+  }
+  button:hover,
+  a:hover {
+    opacity: 0.7;
+  }
+  p {
+    color: blue;
+    font-size: 22px;
+    text-decoration: underline;
+  }
+  h2 {
+    text-align: center;
+  }
+  ul {
+    background: #ff9999;
+    padding: 20px;
+  }
+  ul li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+  }
+  .Description {
+    background-color: pink;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
